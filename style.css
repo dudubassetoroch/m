@@ -91,3 +91,55 @@ header{
     border-radius: 18px;
     padding:3px;
 }
+
+
+.prod-encontrado{
+    margin: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.produtoscard{
+    width: 45%;
+    border: 1px solid rgb(224, 226, 227);
+    margin-left: 3% ;
+    border-radius: 18px;
+    height: 300px;
+}
+
+.imgprodutocard{
+    width: 150px;
+    margin-left: 20px;
+}
+
+.linha{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(224, 226, 227);
+}
+
+.valor_produto{
+    color: green;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.descProduto{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.btn-add{
+    width: 90%;
+    padding: 10px;
+    border-radius: 17px;
+    border: none;
+    background-color: rgb(241, 230, 17) ;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
